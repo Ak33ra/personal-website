@@ -8,7 +8,7 @@ const AboutMe = () => {
             optimization algorithms, and automated level-generation techniques for video games. 
         </p>
         <p className="text-lg"> At school, I&apos;m currently a TA for <a href="https://csd.cmu.edu/15151-mathematical-foundations-for-computer-science">15-151: Mathematical Foundations for Computer Science</a>.</p> 
-        <p className="text-lg">Otherwise, I&apos;m also on the varsity swim team at CMU, and have been swimming competitively for most of my life. With the rest of my time, I play chess, League of Legends, and try to solve Rubik  &apos; s Cubes kinda fast (current best: 15.04).
+        <p className="text-lg">Otherwise, I&apos;m also on the varsity swim team at CMU, and have been swimming competitively for most of my life. With the rest of my time, I play chess, League of Legends, and try to solve Rubik&apos;s Cubes kinda fast (current best: 15.04).
         </p>
         </div>
       </section>
