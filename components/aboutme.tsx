@@ -4,7 +4,7 @@ const AboutMe = () => {
         <div className="container mx-auto text-center">
           <h2 className="text-3xl font-bold mb-6">About Me</h2>
           <p className="text-lg">Hey, I&apos;m Akira-- I started programming due to my enjoyment of video games, and a spark of curiosity about what it would be like to create them.
-            The fun problem-solving aspect drew me in, and if we fast forward a few years, I&apos;m now a computer science student at Carnegie Mellon University. When I&apos;m not working on my next coding assignment, I find myself experimenting with diffusion models 
+            The fun problem-solving aspect drew me in, and if we fast forward a few years, I&apos;m now a computer science student at Carnegie Mellon University. When I&apos;m not working on my next coding assignment, I find myself experimenting with diffusion models, 
             optimization algorithms, and automated level-generation techniques for video games. 
         </p>
         <p className="text-lg"> At school, I&apos;m currently a TA for <a href="https://csd.cmu.edu/15151-mathematical-foundations-for-computer-science">15-151: Mathematical Foundations for Computer Science</a>.</p> 
